@@ -1,0 +1,7 @@
+CLASE DOS
+Para ponerlo en privado hay que "encapsularlo" (#).
+El # significa privado en JS.
+Estoy obligado a declararlo.
+Si quiero verlo por consola utilizo el método y no la propiedad (en caso de ser privado).
+Debemos intentar que las funciones cumplan una sola tarea.
+
